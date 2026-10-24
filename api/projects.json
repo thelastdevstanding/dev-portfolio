@@ -1,0 +1,14 @@
+[
+  {
+    "id": "p1",
+    "title": "ByteBots landing page",
+    "summary": "HTML + CSS team site.",
+    "href": "https://github.com/"
+  },
+  {
+    "id": "p2",
+    "title": "Practice lobby UI",
+    "summary": "React scoreboard sketch.",
+    "href": "https://github.com/"
+  }
+]
